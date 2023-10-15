@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://images2.alphacoders.com/126/1260061.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+p{
+    color:white
+}
+
+h1 {
+    color:white
+}
+
+h2 {
+    color: white
+}
+
+.container {
+    padding: 50px 0;
+}
+
+label.form-label {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    padding: 10px 0;
+}
+form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.jumbotron {
+    padding: 30px; /* Espaciado interno para el contenido */
+    margin: 30px; /* Margen alrededor del div */
+}
