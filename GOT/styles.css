@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url("https://images2.alphacoders.com/126/1260061.jpg");
+    background-image: url("IronT.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -43,4 +43,8 @@ form {
 .jumbotron {
     padding: 30px; /* Espaciado interno para el contenido */
     margin: 30px; /* Margen alrededor del div */
+}
+
+.navbar-dark.bg-black {
+    background-color: black !important;
 }
