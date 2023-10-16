@@ -41,10 +41,22 @@ form {
 }
 
 .jumbotron {
-    padding: 30px; /* Espaciado interno para el contenido */
-    margin: 30px; /* Margen alrededor del div */
+    padding: 30px;
+    margin: 30px; 
 }
 
 .navbar-dark.bg-black {
     background-color: black !important;
+}
+
+
+/* Fondo negro para el contenido del modal */
+.modal-content {
+    background-color: black;
+    color: white; /* Texto blanco */
+}
+
+/* Cambiar el color del título y el botón de cierre */
+.modal-title {
+    color: white;
 }
