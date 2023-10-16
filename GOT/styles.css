@@ -6,13 +6,13 @@ body {
     background-position: center center;
 }
 
-p{
-    color:white
+p {
+    color: white
 }
 
 h1 {
-    color:white;
-    
+    color: white;
+
 }
 
 h2 {
@@ -30,26 +30,29 @@ label.form-label {
 }
 
 a {
-    color: white !important; /* Cambiar el color del texto a blanco */
+    color: white !important;
+    /* Cambiar el color del texto a blanco */
 }
 
 ul {
     list-style-type: none;
     padding: 0;
 }
+
 ul li {
     padding: 10px 0;
 }
+
 form {
     border: 1px solid #ccc;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .jumbotron {
     padding: 30px;
-    margin: 30px; 
+    margin: 30px;
 }
 
 .navbar-dark.bg-black {
@@ -60,7 +63,8 @@ form {
 /* Fondo negro para el contenido del modal */
 .modal-content {
     background-color: black;
-    color: white; /* Texto blanco */
+    color: white;
+    /* Texto blanco */
 }
 
 /* Cambiar el color del título y el botón de cierre */
